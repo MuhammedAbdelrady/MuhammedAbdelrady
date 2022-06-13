@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed Abdelrady</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">Software Engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedabdelrady&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedabdelrady" /> </p>
