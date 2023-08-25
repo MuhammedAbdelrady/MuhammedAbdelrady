@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhameda7med07" target="blank"><img src="https://img.shields.io/twitter/follow/muhameda7med07?logo=twitter&style=for-the-badge" alt="muhameda7med07" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning Track**
+- 🌱 I’m currently focus on **Machine Learning**
 
 - 📫 How to reach me **mhamedabdelrady@gmail.com**
 
